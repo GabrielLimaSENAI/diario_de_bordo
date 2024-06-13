@@ -1,0 +1,10 @@
+Quarto dia-25/04/2024.
+Início do Banco de Dadose também a criação da "Entidade de Relacinamento".
+
+Quinto dia-02/05/2024.
+Continuação do Banco de Dados da sittução de aprendizagem, onde foi utilizado a linguagem SQL para construção do banco.
+E sobre a utilizção dos comandos de Insert para inserção de informações nas tabelas.
+
+Sexto dia-09/05/2024.
+Utilização direta da Engenharia do MySQL para conseguirmos gerar o script de criação do banco.
+Também colocado algumas informações.

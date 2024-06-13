@@ -1,0 +1,14 @@
+Sétimo dia-16/05/2024.
+Foi a criação de mais uma versão do jogo de advinhação. Feito também o menu e a estrutura do jogo utpilizando "estrutura de decisão". (If..else).
+O jogo consistia em adicionar um número no prompt de comando e ele dizia se estava certo ou não.
+
+Oitavo dia-23/05/2024.
+Incrementado lógica do jogo, fazendo ele se repetir automaticamente a cada erro dando assim mais uma tentativa ao jogador.Onde foi utilizado o laço "For".
+Baixado o projeto para a Situação de Aprendizagem usando o "Spring Initializr".
+
+Nono dia-06/06/2024.
+Aprendido conceitos de UX,e investigado sites do API gratuitos  para ver a documentação e tentar acessar pelo Postman.
+Baixado o projeto modelo para usar a biblioteca, OPENAPI e Swagger para a documentação automática.
+
+Décimo dia-11/06/2024.
+Usamos o Swagger e o Intellij.E também fizemos os relaótios de bordo de todos os dias de aula no Senai.
